@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Test 1`] = `
+<div>
+  <button
+    data-testid="btn-dec"
+    disabled={true}
+    onClick={[Function]}
+  >
+    -
+  </button>
+  <span
+    data-testid="counter-value"
+    style={
+      Object {
+        "padding": 10,
+      }
+    }
+  >
+    0
+  </span>
+  <button
+    data-testid="btn-inc"
+    onClick={[Function]}
+  >
+    +
+  </button>
+</div>
+`;
